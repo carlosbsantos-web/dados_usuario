@@ -26,7 +26,7 @@ h2 {
     margin: 0 auto;
     width: 350px ;
     height: 300px;
-    background: rgb(227, 228, 225);
+    background: rgb(234, 241, 220);
     border-radius: 5px;
 
 
@@ -38,6 +38,8 @@ h2 {
      & #submit {
 
            width: 100%;
+           background-color: #bd4242;
+           color: #fff;
         
     } 
 }
