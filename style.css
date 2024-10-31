@@ -1,0 +1,47 @@
+
+body {
+
+    background-color: rgb(35, 35, 36);
+    font-family: "Poppins", serif;
+}
+
+h1{
+
+   display: flex;
+   justify-content: center;
+   color: #fff;
+}
+
+h2 {
+
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 350px ;
+    height: 300px;
+    background: rgb(227, 228, 225);
+    border-radius: 5px;
+
+
+    & input {
+
+        border-radius: 5px;
+    }
+
+     & #submit {
+
+           width: 100%;
+        
+    } 
+}
+
+
+
+
